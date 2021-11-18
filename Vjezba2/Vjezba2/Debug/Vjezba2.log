@@ -1,0 +1,5 @@
+﻿  Vjezba2.c
+D:\Faks\Strukture podataka i algoritmi\Vjezba2\Vjezba2\Vjezba2.c(28,23): warning C4018: '<': signed/unsigned mismatch
+D:\Faks\Strukture podataka i algoritmi\Vjezba2\Vjezba2\Vjezba2.c(47,23): warning C4018: '<': signed/unsigned mismatch
+D:\Faks\Strukture podataka i algoritmi\Vjezba2\Vjezba2\Vjezba2.c(61,23): warning C4018: '<': signed/unsigned mismatch
+  Vjezba2.vcxproj -> D:\Faks\Strukture podataka i algoritmi\Vjezba2\Debug\Vjezba2.exe
